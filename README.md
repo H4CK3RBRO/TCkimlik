@@ -1,7 +1,7 @@
 # TCkimlik
 Yapımcı: HACKERBRO
-Gereksinimler:
-Python
+Gereksinimler: PYTHON
+
 Başlamak:
 python tcno.py
 
